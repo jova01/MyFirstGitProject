@@ -8,5 +8,6 @@ public class ContactsTest {
     public void test1(){
         System.out.println("driver open vytrack");
         System.out.println("driver goes to contacts page");
+        System.out.println("Hello World");
     }
 }
